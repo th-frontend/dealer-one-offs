@@ -324,7 +324,7 @@
     position: relative;
     overflow: hidden;
     color: var(--hero-ink);
-    background: #f5f8fb url("https://picsum.photos/200/300") center/cover no-repeat;
+    background: #f5f8fb url("https://picsum.photos/1200/300") center/cover no-repeat;
     padding: 24px 16px 48px;
     border-bottom: 10px solid var(--hero-bg-swoop);
   }
